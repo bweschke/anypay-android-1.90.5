@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AnyPaySampleAppCloud</string>
+    <string name="initialize">Initialize Cloud Terminal</string>
+    <string name="get_cloud_message">Get Cloud Message</string>
+    <string name="worldnet_button">Worldnet Terminal</string>
+    <string name="audio_connect">Connect Audio Reader</string>
+    <string name="bt_connect">Connect BT Reader</string>
+    <string name="accept_transaction">Accept Transaction</string>
+    <string name="process_transaction">Process Transaction</string>
+    <string name="key">Activation Key</string>
+    <string name="code">Activation Code</string>
+</resources>
